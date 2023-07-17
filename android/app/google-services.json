@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "34565138129",
+    "project_id": "communati-c97d6",
+    "storage_bucket": "communati-c97d6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:34565138129:android:c85c69818448611c9fc7f0",
+        "android_client_info": {
+          "package_name": "com.example.communati"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "34565138129-4muaoq904b3go1mkj5brcms41l33fe0h.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA43H-WaLega5HKR9g7fm37xADrW2DPoQE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "34565138129-4muaoq904b3go1mkj5brcms41l33fe0h.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
